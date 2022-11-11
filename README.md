@@ -1,5 +1,5 @@
 # Tutorium python und raspi
-![Pygame](https://git...pygame.gif)
+![Pygame](pics/pygame.gif)
 
 ### Ziel:
 
@@ -19,11 +19,12 @@ Bibliotheken:
 
 Als nächstens wird ein einfaches Spieljoystick auf dem Steckbrett aufgebaut
 und anschließend dazu ein Paar Übungsprogrammen geschrieben. (z.B. Blinking) 
+![Pygame](pics/raspi_game.png)
 
 Bibliotheken:
 - gpiozero
 
 ### Schritt 3 - Joystick in das Spiel integrieren:
 
-Abschließend wird der Joystick (aus dem Schritt 2)in dem Spiel benutzt, um
+Abschließend wird der Joystick (aus dem Schritt 2) in dem Spiel benutzt, um
 die Eingabe vom Spieler, zu erzeugen.
