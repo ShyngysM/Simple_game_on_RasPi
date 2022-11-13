@@ -12,8 +12,8 @@ Zuerst wird der Quellcode des Spiels zusammen mit Teilnehmern erstellt, dabei is
 von der Bedeutung die verwendete Spiellogik kennenzulernen. 
 
 Bibliotheken:
-	- pygame
-	- random
+- pygame
+- random
 
 ### Schritt 2 - Joystick:
 
@@ -22,8 +22,8 @@ und anschließend dazu ein Paar Übungsprogrammen geschrieben. (z.B. Blinking)
 ![Pygame](pics/raspi_game.png)
 
 Bibliotheken:
-	- gpiozero
-	- signal
+- gpiozero
+- signal
 
 ### Schritt 3 - Joystick in das Spiel integrieren:
 
