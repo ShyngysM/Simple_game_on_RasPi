@@ -1,4 +1,5 @@
-# Tutorium python und raspi
+# Simple game on RasPi 
+## Tutorium python und RasPi
 ![Pygame](pics/pygame.gif)
 
 ### Ziel:
@@ -10,6 +11,11 @@ der Möglichkeit, dieses mit dem selbstentworfenen Spieljoystick zu spielen!
 
 Zuerst wird der Quellcode des Spiels zusammen mit Teilnehmern erstellt, dabei ist es
 von der Bedeutung die verwendete Spiellogik kennenzulernen. 
+
+Das folgende Flussdiagramm stellt die Struktur, anhand deren das Spiel geschrieben
+wird.
+
+![logic](pics/pygame_logic2.png)
 
 Bibliotheken:
 - pygame
