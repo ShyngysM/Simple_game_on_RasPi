@@ -31,6 +31,8 @@ Bibliotheken:
 - gpiozero
 - signal
 
+**Hinweis**: kompilieren mit '$ python3 filename.py' 
+
 ### Schritt 3 - Joystick in das Spiel integrieren:
 
 Abschließend wird der Joystick (aus dem Schritt 2) in dem Spiel benutzt, um
