@@ -1,6 +1,5 @@
 from gpiozero import Button
 from gpiozero import LEDBoard
-from signal import pause
 
 buttonL = Button(2)
 buttonR = Button(3)
@@ -33,5 +32,3 @@ while True:
                 x = 0
     else:
         current_state = 0
-
-pause() 
