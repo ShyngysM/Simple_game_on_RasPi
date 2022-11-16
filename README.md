@@ -6,6 +6,7 @@
 
 Das Ziel dieses Projektes ist die Implementierung eines simplen Spiels mit 
 der Möglichkeit, dieses mit dem selbstentworfenen Spieljoystick zu spielen!
+*(Zu jedem Schritt gibt es ein Ordner mit dem Code siehe oben!)*
 
 ### Schritt 1 - Spiel:
 
@@ -29,7 +30,6 @@ und anschließend dazu ein Paar Übungsprogrammen geschrieben. (z.B. Blinking)
 
 Bibliotheken:
 - gpiozero
-- signal
 
 **Hinweis**: kompilieren mit '$ python3 filename.py' 
 
