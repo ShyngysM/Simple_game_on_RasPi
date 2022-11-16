@@ -15,7 +15,7 @@ von der Bedeutung die verwendete Spiellogik kennenzulernen.
 Das folgende Flussdiagramm stellt die Struktur, anhand deren das Spiel geschrieben
 wird.
 
-![logic](pics/pygame_logic2.png)
+![logic](pics/flowchart.png)
 
 Bibliotheken:
 - pygame
@@ -25,7 +25,7 @@ Bibliotheken:
 
 Als nächstens wird ein einfaches Spieljoystick auf dem Steckbrett aufgebaut
 und anschließend dazu ein Paar Übungsprogrammen geschrieben. (z.B. Blinking) 
-![Pygame](pics/raspi_game.png)
+![Pygame](pics/raspi_joystick.png)
 
 Bibliotheken:
 - gpiozero
