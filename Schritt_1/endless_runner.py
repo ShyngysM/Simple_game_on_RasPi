@@ -66,7 +66,7 @@ while running:
             score += 1
             obstacle_x = random.randint(0, WIDTH - 20)
             if score % 5 == 0 :
-                obstacle_speed += 2
+                obstacle_speed += 4
         if player.colliderect(obstacle0):
             active = False
             x_change = 0
