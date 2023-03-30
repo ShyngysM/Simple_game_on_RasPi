@@ -1,5 +1,5 @@
 # Simple game on RasPi 
-## Tutorium python und RASPI
+## Tutorium python und RasPi
 ![Pygame](pics/pygame2.gif)
 
 ### Ziel:
